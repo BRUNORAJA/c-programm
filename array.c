@@ -1,8 +1,8 @@
 #include<stdio.h>
-int main()
+void main()
 {
    int n = 15;
    int k = 4;
-   cout << firstkdigits(n, k);
-   return 0;
+   printf("\nfirstkdigits(n,k)");
+   getch();
 }
