@@ -17,7 +17,7 @@ void  main()
     {
         scanf("%d", &arr[i]);
 
-        /* Initially initialize frequencies to -1 */
+        
         freq[i] = -1;
     }
 
