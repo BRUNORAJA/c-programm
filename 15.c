@@ -1,7 +1,9 @@
 #include <stdio.h>
+#include<conio.h>
 void main()
 {
     int low, high, i, flag;
+    clrscr();
     printf("Enter two numbers(intervals): ");
     scanf("%d %d", &low, &high);
 
